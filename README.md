@@ -22,3 +22,7 @@ Key functionality includes:
 * Custom AI-generated conversation scenarios
 * Speaking, listening, and lesson progress tracking
 * Premium features and an integrated in-app paywall
+
+
+APP DEMO
+https://youtu.be/vXagPLUzZpA
